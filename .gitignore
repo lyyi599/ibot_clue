@@ -1,0 +1,8 @@
+__pycache__/
+dataset/
+apex/
+apex-master/
+cyanure/
+mmsegmentation/
+Swin-Transformer-Object-Detection/
+output/
